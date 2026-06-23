@@ -1,44 +1,62 @@
-\# Phishing Email Detection \& Awareness System
+\# FUTURE\_CS\_01 - Cyber Security Internship Tasks
 
 
 
-\## Objective
+\## Task 1: Vulnerability Assessment Report
 
-Identify phishing emails and educate users about phishing threats.
+Tools Used:
+
+\- Nmap
+
+\- OWASP ZAP (Passive Scan)
+
+\- Browser Developer Tools
 
 
 
-\## Tools Used
+Deliverables:
+
+\- Vulnerability findings
+
+\- Risk classification
+
+\- Remediation recommendations
+
+
+
+\## Task 2: Phishing Email Detection \& Awareness
+
+Tools Used:
 
 \- VirusTotal
 
-\- WHOIS
+\- WHOIS Lookup
 
-\- Browser Analysis
-
-
-
-\## Findings
-
-\- Suspicious Domain
-
-\- Urgent Language
-
-\- Social Engineering Indicators
+\- Email Analysis
 
 
 
-\## Recommendations
+Deliverables:
 
-\- Verify sender identity
+\- Phishing email analysis
 
-\- Enable MFA
+\- Risk assessment
 
-\- Avoid suspicious links
+\- User awareness recommendations
 
 
 
-\## Conclusion
+\## Skills Demonstrated
 
-Phishing emails use deception and urgency to trick users into revealing sensitive information.
+\- Vulnerability Assessment
+
+\- Security Analysis
+
+\- Phishing Detection
+
+\- Risk Classification
+
+\- Security Reporting
+
+\- GitHub Documentation
 
